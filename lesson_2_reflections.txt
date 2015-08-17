@@ -2,3 +2,7 @@ When you initialize a repository, an empty
 folder called .git is created in the working 
 directory.  You need to do it in order to start
 committing changes made to files.
+
+The staging area holds chosen files from the working directory
+before they are committed to the repository.  This allows the
+user to choose which files are to be added to the repository.
