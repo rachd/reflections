@@ -6,3 +6,7 @@ committing changes made to files.
 The staging area holds chosen files from the working directory
 before they are committed to the repository.  This allows the
 user to choose which files are to be added to the repository.
+
+You can use the staging area to make sure you have one commit 
+per logical change by comparing what is in the staging area
+to what is in the last commit in the repository.
