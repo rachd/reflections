@@ -1,0 +1,4 @@
+When you initialize a repository, an empty 
+folder called .git is created in the working 
+directory.  You need to do it in order to start
+committing changes made to files.

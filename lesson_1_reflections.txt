@@ -1,0 +1,38 @@
+Viewing a diff between two versions of a file helped me to see the
+bug that was introduced by highlighting which specific lines were
+changed from one version to another.  I did not have to scroll 
+through every line of both entire documents.
+
+Having easy access to the entire history of a film could make you
+a more efficient programmer in the long term because you can try
+out new pieces of code without having to worry about what happens
+if they break.  It also makes collaborating easier, as two people
+can make changes without interfering with each other.
+
+Manually committing is nice because every commit can have a comment
+attached to it and is a functioning piece of code that has been
+saved in a logical place.  However, manually saving also can be 
+a problem if the coder does not remember to commit at regular 
+intervals.  Auto-saves solve the problem of user error but are less
+logical and harder to use when trying to find previous functional
+versions.
+
+Google docs files are more likely to work independently of one 
+another, so tracking multiple files at once does not make much 
+sense.  On the other hand, platforms like git which work with 
+code often have muliple files for a particular project that 
+are all interrelated, such as html and css for a webpage.  In 
+this case, tracking all the changes together makes more sense.
+
+Git log shows all the past commits done to a repository, with a 
+helpful comment to say what was changed.  Multiple versions can
+be compared using the git diff command to see lines added or 
+deleted between versions.
+
+Version control allows for greater confidence in making changes
+that could potentially break a program because returning to older
+versions that don't have the bug is very easy.
+
+I want to try using git to keep track of website files all bundled
+into a repository so I can track multiple versions as I work on 
+writing the javascript.
