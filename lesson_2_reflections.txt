@@ -15,3 +15,7 @@ Branches are helpful when there are multiple distinct versions
 of a project that all are current.  Branches help to keep those
 changes separate and to allow the user to switch between them
 easily.
+
+Diagrams help you visualize the branch structure by showing the 
+path of the commits across branches.  This makes it easy to find
+the last commit that both branches can trace back to.
