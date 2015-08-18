@@ -1,0 +1,2 @@
+You would want to use a remote repository as a backup in case your computer crashes, to access the files from 
+multiple computers, and to allow multiple people to work on the same project.
