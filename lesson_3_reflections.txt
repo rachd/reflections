@@ -3,3 +3,10 @@ multiple computers, and to allow multiple people to work on the same project.
 
 You might always want to pull changes manually in case other group members have posted changes that do not affect
 the work you are currently doing.
+
+Forks are copies of public Github repositories.  These are used to capture the content of another person's project 
+when you are not a collaborator but want to make your own changes.  Clones copy the repository from Github onto
+your computer, which is how you get the fork onto your machine to begin working.  Branches are multiple versions
+of a project stored either on your machine or on Github. These are used when you want to have a main version but 
+try out other features and need to switch between them easily.
+
