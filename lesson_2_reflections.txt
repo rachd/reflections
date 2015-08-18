@@ -24,3 +24,10 @@ Merging two branches together creates a new commit off of the
 currently checkedout branch containing all of the changes from
 both branches.  It is the child of both branches because you can
 still track the commits back from both of them.
+
+Git's automatic merging allows for the bulk of changes that do
+not directly conflict to pass through without the user having to 
+manually change each one.  This saves a lot of time, but has the 
+potential to add lines from both that may cause bugs when combined.
+Merging manually takes time but is "safer" because it is done by 
+a person knowledgable of how the code runs.
