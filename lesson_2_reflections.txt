@@ -19,3 +19,8 @@ easily.
 Diagrams help you visualize the branch structure by showing the 
 path of the commits across branches.  This makes it easy to find
 the last commit that both branches can trace back to.
+
+Merging two branches together creates a new commit off of the 
+currently checkedout branch containing all of the changes from
+both branches.  It is the child of both branches because you can
+still track the commits back from both of them.
