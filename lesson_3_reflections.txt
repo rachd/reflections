@@ -10,3 +10,6 @@ your computer, which is how you get the fork onto your machine to begin working.
 of a project stored either on your machine or on Github. These are used when you want to have a main version but 
 try out other features and need to switch between them easily.
 
+The benefit of having a copy of the last known state of the remote
+stored locally allows git to know whether merging is necessary and 
+what the conflicts might be.
