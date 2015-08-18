@@ -10,3 +10,8 @@ user to choose which files are to be added to the repository.
 You can use the staging area to make sure you have one commit 
 per logical change by comparing what is in the staging area
 to what is in the last commit in the repository.
+
+Branches are helpful when there are multiple distinct versions
+of a project that all are current.  Branches help to keep those
+changes separate and to allow the user to switch between them
+easily.
