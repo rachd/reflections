@@ -16,3 +16,6 @@ what the conflicts might be.
 
 Without git and Github, you would have to send over every file you wanted to share.  This would be tedious and
 uncentralized.  Using Github is much easier.
+
+You would want to make changes in a separate branch when you want to make a pull request and prevent your changes
+from automatically updating the master file that everyone is collaborating on.
